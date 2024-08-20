@@ -10,6 +10,6 @@
 - numpy
 - seaborn
 - matplotlib.pyplot
-- sklearn
+  
 
 📌 Jupyter notebook was used. 
